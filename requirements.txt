@@ -1,0 +1,16 @@
+scapy
+pandas
+numpy
+scikit-learn
+xgboost
+torch
+torchvision
+torchaudio
+streamlit
+plotly
+watchdog
+python-dotenv
+joblib
+matplotlib
+seaborn
+requests
